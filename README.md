@@ -1,6 +1,6 @@
 # MOBA Game / League of DOTA Fortress 2
 
-The foundation for a League of Legends-style game. In order to run this, you need to run both the server (in OnlineGameServer/dist) and the client (in OnlineGameClient/dist) at the same time.
+The foundation for a League of Legends-style game, made by me in 2015. In order to run this, you need to run both the server (in OnlineGameServer/dist) and the client (in OnlineGame/dist) at the same time.
 
 ### Features
 
